@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Mar 16 13:34:51 2015
+Quartus II Version : 11.0 Build 157 04/27/2011 SJ Web Edition
+Revision Name : kodcozucu
+Top-level Entity Name : kodcozucu
+Family : Cyclone II
+Device : EP2C70F896C6
+Timing Models : Final
+Total logic elements : 8 / 68,416 ( < 1 % )
+    Total combinational functions : 8 / 68,416 ( < 1 % )
+    Dedicated logic registers : 0 / 68,416 ( 0 % )
+Total registers : 0
+Total pins : 12 / 622 ( 2 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,152,000 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 300 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

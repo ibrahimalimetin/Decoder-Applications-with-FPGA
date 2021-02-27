@@ -1,0 +1,9 @@
+|kodcozucu
+A => inst3.IN0
+A => inst5.IN0
+A => inst6.IN0
+B => inst4.IN0
+B => inst1.IN1
+B => inst6.IN1
+
+
